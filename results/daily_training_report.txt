@@ -1,0 +1,8 @@
+Daily Load Forecasting - Training Report
+
+Train: 2018-01-01 to 2018-12-31 (364 days)
+Val: 2019-01-01 to 2019-12-31 (365 days)
+
+MAE: 909.4 MW
+RMSE: 1214.7 MW
+MAPE: 2.90%
